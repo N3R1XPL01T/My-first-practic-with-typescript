@@ -1,0 +1,16 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": null,
+  "scripts": {
+    "test": "lite-server index.html"
+  },
+  "keywords": [],
+  "author": "Saul Neri",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "tsc": "^1.20150623.0"
+  }
+}
